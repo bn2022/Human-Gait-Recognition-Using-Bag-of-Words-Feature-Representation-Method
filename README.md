@@ -1,0 +1,1 @@
+# Human-Gait-Recognition-Using-Bag-of-Words-Feature-Representation-Method
