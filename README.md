@@ -2,7 +2,12 @@
 
 If you used this data set please cite my paper as:
 
-https://arxiv.org/abs/2203.13317
+@article{bayat2022human,
+  title={Human Gait Recognition Using Bag of Words Feature Representation Method},
+  author={Bayat, Nasrin and Rastegari, Elham and Li, Qifeng},
+  journal={arXiv preprint arXiv:2203.13317},
+  year={2022}
+}
 
 Please find the data used in this paper in the following links:
 
